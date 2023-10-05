@@ -1,6 +1,6 @@
-# blogs_task
+# Blogs - SubSpace Task
 
-A new Flutter project.
+A flutter application made for the SubSpace task.
 
 ## Getting Started
 

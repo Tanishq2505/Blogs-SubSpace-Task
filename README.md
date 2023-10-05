@@ -1,16 +1,14 @@
-# blogs_task
+# Blogs - SubSpace Task
 
-A new Flutter project.
+A flutter application made for the SubSpace task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project, follow the steps-
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Download the code, either by downloading the zip file or using git.
+2. Navigate to the root folder
+3. Open Command Prompt in the current directory
+4. Run the command ```flutter pub get```
+5. Build the apk using the following command ```flutter build apk --dart-define=ACCESS_KEY=<your_api_access_key>```
+6. Transfer the apk on your phone and install the application.
